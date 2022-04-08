@@ -16,7 +16,7 @@ We also implemented **Gaussina Derivative Filter** for 1-D. Finally, we observed
 ## Image Representation 
 
 1. We used the module normalized module and implement the function **normalized hist**, which takes gray-value image as input and returns normalized histogram of pixel intensities. When quantizing the image to compute the histogram we considered that pixel intensities range in [0, 255].
-We also compare our implementation with built-in Python function numpy.histogram, producing histograms and histograms that are approximately the same, except for the overall scale, which will be different since normalized hist does not normalize its output.
+We also compare our implementation with built-in Python function numpy.histogram, producing histograms that are approximately the same, except for the overall scale, which will be different since normalized hist does not normalize its output.
 
 2. We implemented the histogram distance functions within the **dist_module**. 
 
