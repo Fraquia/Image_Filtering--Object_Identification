@@ -1,1 +1,1 @@
-# Image_Filtering--Object_Identification
+# Image Filtering and Object Identification
