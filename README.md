@@ -1,11 +1,5 @@
 # Image Filtering and Object Identification
 
-This project was developed by:
-1. Caterina Alfano (@cat-erina)
-2. Angelo Berardi (@AngeloBerardi)
-3. Dario Cappelli (Capp18)
-4. Emanuele Fratocchi (@Fraquia)
-
 # Description 
 
 ## Image Filtering 
@@ -39,3 +33,14 @@ We implemented a function **plot_rpc**, defined in **rpc_module.py**, where we c
 
 ## Report
 As part of the projet we also produced a write a report to explain the theory behind this project, and to summarise and comment results of our functions. 
+
+## Authors and Credits 
+
+### Authors 
+1. Caterina Alfano (@cat-erina)
+2. Angelo Berardi (@AngeloBerardi) 
+3. Emanuele Fratocchi (@Fraquia)
+4. Dario Cappelli (@Capp18)
+
+### Credits 
+This project was develped as an exercise of Advanced Machine Learning Course at Sapienza University of Rome. This exercise credit goes to Prof. Fabio Galasso.
